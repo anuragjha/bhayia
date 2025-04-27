@@ -1,1 +1,3 @@
-package main
+//go:build tools
+
+package bhayia
